@@ -1,0 +1,35 @@
+{
+	"name": "Fast Test",
+	"questions": [{
+			"img": "q1.jpg",
+			"text": "Co to za zwierz",
+			"ansers": [
+				"Słoń",
+				"Małpa",
+				"Pies",
+				"Tygrys"
+			],
+			"proper_answer": 3
+		},
+		{
+			"img": "q2.jpg",
+			"text": "Czy na obrazku jest samochód",
+			"ansers": [
+				"TAK",
+				"NIE"
+			],
+			"proper_answer": 1
+		},
+		{
+			"img": "q3.jpg",
+			"text": "Kto jest twórcą tego obrazu",
+			"ansers": [
+				"Jan Matejko",
+				"Adam Mickiewicz",
+				"Stanisław Wyspiański",
+				"Witkacy"
+			],
+			"proper_answer": 2
+		}
+	]
+}
